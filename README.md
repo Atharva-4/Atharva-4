@@ -1,70 +1,67 @@
-# Hi 👋 I'm Atharva Vijay Kudale
+# Hi 👋 I'm Atharva Kudale
 
-🎓 MCA Student | 💻 C / C++ Developer | 🧩 System-Level Programming Enthusiast  
+🎓 MCA Student | 💻 C / C++ Programmer | 🧠 Problem Solver  
 
-I am a passionate **C / C++ developer** with strong interest in **low-level programming, data structures, and CAD-related software development**.  
-Currently pursuing **Master of Computer Applications (MCA)** and actively preparing for **C++ developer / internship roles**.
+I am an aspiring software developer with a strong foundation in **C and C++**, data structures, and system-level programming.  
+I enjoy building low-level and core programming projects that strengthen my understanding of how software works internally.
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Skills
 
-- **Languages:** C, C++, Java (basic)
-- **Core Concepts:**  
-  - Object-Oriented Programming (OOP)  
+- **Languages:** C, C++, Java  
+- **Programming Concepts:**  
   - Data Structures & Algorithms  
+  - Object-Oriented Programming (OOP)  
   - Memory Management  
-  - File Handling & System Calls  
+  - File Handling  
 - **Tools & Technologies:**  
   - Git & GitHub  
+  - Visual Studio, VS Code  
+  - GCC  
   - Linux (basic)  
-  - CMake (basic)  
-  - OpenCascade / OCE (learning)  
-- **Interest Areas:**  
-  - CAD Software Development  
-  - JT File Viewer  
-  - System-Level Applications  
+- **Database:** MySQL  
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Custom Virtual File System (C)
-- Implemented a Linux-like virtual file system in C  
-- Features include file creation, read/write, permissions, and file descriptors  
-- Strengthened understanding of **OS concepts and system calls**
+### 🔹 Customized Virtual File System (C)
+- Custom implementation of a Linux-like virtual file system  
+- Supports file creation, read/write, permissions, and file descriptors  
+- Helped me understand **system calls, OS concepts, and memory management**
 
 ### 🔹 Generic Data Structures Library (C++)
-- Implemented reusable generic data structures using templates  
-- Focus on **clean design, reusability, and OOP principles**
+- Object-oriented and template-based data structures library  
+- Includes linear and non-linear data structures  
+- Designed with **reusability, modularity, and clean OOP principles**
 
-### 🔹 Process Monitor (Linux – C)
-- Built a basic process monitoring tool  
-- Explored process handling and system resource tracking
+### 🔹 Procmon – Process Monitor Tool (C, Linux)
+- CLI-based process monitoring tool  
+- Captures process snapshots at fixed intervals  
+- Logs system data for analysis and diagnostics
+
+### 🔹 Client-Server Chat Application (Java)
+- TCP-based client-server chat application  
+- Supports real-time, bi-directional communication
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **1st Prize in College Coding Competition**
-- Strong academic background in **Computer Science fundamentals**
-
----
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-4&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-4&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-4&layout=compact)
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Profiles
 
-- 📧 Email: **atharvakudale6@gmail.com**
-- 💼 LinkedIn: [Atharva Kudale](https://www.linkedin.com/in/atharva-kudale-2092ab342/)
-- 🧑‍💻 GitHub: [github.com/Atharva-4](https://github.com/Atharva-4)
+- 💼 LinkedIn: https://www.linkedin.com/in/atharva-kudale-2092ab342/
+- 🧑‍💻 GitHub: https://github.com/Atharva-4
+- 🧠 LeetCode: https://leetcode.com/u/Atharva184/
 
 ---
 
-⭐ *I am always eager to learn, improve my C++ skills, and contribute to real-world software projects.*
+⭐ *Actively improving my problem-solving skills and core programming knowledge in C and C++.*
